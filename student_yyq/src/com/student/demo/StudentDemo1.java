@@ -8,7 +8,7 @@ public class StudentDemo1 {
 		return id;
 	}
 	public void setId(int id) {
-		this.id = id+100;
+		this.id = id+1001;
 	}
 	public String getUsername() {
 		return username;
